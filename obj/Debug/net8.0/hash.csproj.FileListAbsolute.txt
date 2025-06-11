@@ -1,0 +1,14 @@
+/home/coigo/www/hash/bin/Debug/net8.0/hash
+/home/coigo/www/hash/bin/Debug/net8.0/hash.deps.json
+/home/coigo/www/hash/bin/Debug/net8.0/hash.runtimeconfig.json
+/home/coigo/www/hash/bin/Debug/net8.0/hash.dll
+/home/coigo/www/hash/bin/Debug/net8.0/hash.pdb
+/home/coigo/www/hash/obj/Debug/net8.0/hash.GeneratedMSBuildEditorConfig.editorconfig
+/home/coigo/www/hash/obj/Debug/net8.0/hash.AssemblyInfoInputs.cache
+/home/coigo/www/hash/obj/Debug/net8.0/hash.AssemblyInfo.cs
+/home/coigo/www/hash/obj/Debug/net8.0/hash.csproj.CoreCompileInputs.cache
+/home/coigo/www/hash/obj/Debug/net8.0/hash.dll
+/home/coigo/www/hash/obj/Debug/net8.0/refint/hash.dll
+/home/coigo/www/hash/obj/Debug/net8.0/hash.pdb
+/home/coigo/www/hash/obj/Debug/net8.0/hash.genruntimeconfig.cache
+/home/coigo/www/hash/obj/Debug/net8.0/ref/hash.dll
